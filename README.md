@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @welleduardo
 - 👀 I’m interested in front-end developer ...
 - 🌱 I’m currently learning  JS /  HTML / CSS / REACT 
-- 💞️ I’m looking to collaborate  com projetos prátics
+- 💞️ I’m looking to collaborate with project prátics
 - 📫 How to reach me instagram  @welleduardo / linkedin: wellington eduardo
     
 <!---
